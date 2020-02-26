@@ -20,7 +20,7 @@ organizations:
   url: "https://armlab.iut.ac.ir/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Multi-robot systems, Intelligent Control and Visual Servoing.
+bio: Graduate student at Isfahan University of Technology, studying Dynamic and Control Systems.
 
 interests:
 - Multi-agent Robotic Systems
@@ -70,4 +70,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a master student of Dynamics & Control Systems studying at Isfahan University of Technology. Currently, I am collaborating with the Advanced Robotics and Mechatronics (ARM) Lab as a graduate research assistant. My research interests include Multi-robot systems, Intelligent Control and Visual Servoing.
+I am a master student of Dynamics & Control Systems, studying at Isfahan University of Technology. Currently, I am collaborating with the Advanced Robotics and Mechatronics (ARM) Lab as a graduate research assistant. My research interests include Multi-robot systems, Intelligent Control and Visual Servoing.
