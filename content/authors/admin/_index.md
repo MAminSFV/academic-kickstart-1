@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: M.Sc. Student of Dynamics & Control Systems
+role: M.Sc. Student in Dynamics & Control Systems
 
 # Organizations/Affiliations
 organizations:
@@ -70,4 +70,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a master student of Dynamics & Control Systems, studying at Isfahan University of Technology. Currently, I am collaborating with the Advanced Robotics and Mechatronics (ARM) Lab as a graduate research assistant. My research interests include Multi-robot systems, Intelligent Control and Visual Servoing.
+I am a master student in Dynamics & Control Systems, studying at Isfahan University of Technology. Currently, I am collaborating with the Advanced Robotics and Mechatronics (ARM) Lab as a graduate research assistant. My research interests include Multi-robot systems, Intelligent Control and Visual Servoing.
